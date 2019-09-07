@@ -1,6 +1,6 @@
-hash1=4d3c39feb0f7c233acdb96588febbb6bc405b3c616e069f0ae0bf0a164a8a222;
-base=dundjswu%d546fmaq;
+hash1=4d3c39feb0f7c23acdb96588febbb6bc405b3c616e069f0ae0bf0a164a8a222;
+base=dundjswu%d54fmaq;
 Tracking user behavior on create account form
 
 
-Load denied by X-Frame-Options: “DENY” from “https://accounts.google.com/ServiceLogin?continue=https%3A%2…passive%26hl%3Des&passive=true&uilel=3&service=youtube&hl=es”, site does not permit any framing. Attempted to load into “https://www.youtube.com/”.
+Load denied by X-Frame-Options: “DENY” from “https:/hl=es”, site does not permit any framing. Attempted to load into “https://www.youtube.com/”.
